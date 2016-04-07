@@ -11,4 +11,5 @@ Welcome to Savas Labs Developer Docs!
    drupal-vm
    projectmanagement
    redmine
+   time-entry
 
