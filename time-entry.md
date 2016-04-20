@@ -60,13 +60,13 @@ There are a set of "common" tasks that are added by default ([see exceptions](#e
 Internal projects help us track how we're investing our time internally, and although they have overlap in tasks with a typical client project, they have unique tasks attributed to them. Please ensure that you select the appropriate internal project for each internal task as there are multiple. As always, ask when you don't know.
 
 - **Admin** - catch all, please be more specific when possible. Checking email, daily-standup.
-- **Blog writing / research / review** - Blog writing or reading/reviewing of others'.
-- **Business Development** - Reading a proposal, providing estimates for a proposal, conversing about a prospective project.
-- **Training** - Personal skill development.
+- **Blog review** - Reading/reviewing providing feedback of others a teammate's blog.
+- **Blog writing / research** - Blog writing and research for an article you're writing. - **Business Development** - Reading a proposal, providing estimates for a proposal, conversing about a prospective project.
 - **Meeting** - Internal calls or in-person meetings.
-- **Skillshare** - Team skillshare, time researching / preparing for skillshare delivery.
 - **Mentoring** - Providing training to a teammate.
+- **Skillshare** - Team skillshare, time researching / preparing for skillshare delivery.
+- **Training** - Personal skill development.
 
 ### Exceptions
 
-Sometimes it will be necessary to tie projects to very specific tasks within a given scope of work to facilitate accurate reporting and ensure maintenance of budget. When this is the case, the project manager/lead will inform each team member and the appropriate tasks to select for the project will be clearly stated on the project wiki page.
+Sometimes it will be necessary to tie projects to very specific tasks within a given scope of work to facilitate accurate reporting and ensure maintenance of budget. When this is the case, the project manager/lead will inform each team member and the appropriate tasks to select for the project will be clearly stated on the project wiki page in [Redmine](https://pm.savaslabs.com/).
