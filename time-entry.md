@@ -48,9 +48,8 @@ There are a set of "common" tasks that are added by default ([see exceptions](#e
 - **Design/UX** - Mockups, wireframes, UX tasks.
 - **Development** - Writing code, configuring/building/writing software.
 - **Project Management** - Client/internal calls/meetings, issue queue management, documentation, organizational tasks.
-- **Research** - Sometimes you've got to look things up.
-- **Setup/Deployment** - Local dev environment, staging or production deployments.
 - **Research / Strategy / Consulting** - Researching a technical solution, advising a client, consulting on options and approaches. Discovery tasks.
+- **Setup/Deployment** - Local dev environment, staging or production deployments.
 - **Testing** - Writing automated tests, manual QA
 - **Theme development** - Building templates, writing SASS/LESS/CSS.
 - **Unestimated / Out of Scope** - Tasks that become part of a project that were not in the initial scope of work. These tasks can be driven clients with new requests or by developers taking a new approach. Generally speaking, if you are logging to this task, you should make sure your project manager is aware.
