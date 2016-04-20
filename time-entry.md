@@ -60,7 +60,8 @@ Internal projects help us track how we're investing our time internally, and alt
 
 - **Admin** - catch all, please be more specific when possible. Checking email, daily-standup.
 - **Blog review** - Reading/reviewing providing feedback of others a teammate's blog.
-- **Blog writing / research** - Blog writing and research for an article you're writing. - **Business Development** - Reading a proposal, providing estimates for a proposal, conversing about a prospective project.
+- **Blog writing / research** - Blog writing and research for an article you're writing.
+- **Business Development** - Reading a proposal, providing estimates for a proposal, conversing about a prospective project.
 - **Meeting** - Internal calls or in-person meetings.
 - **Mentoring** - Providing training to a teammate.
 - **Skillshare** - Team skillshare, time researching / preparing for skillshare delivery.
