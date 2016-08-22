@@ -5,7 +5,7 @@ successful project management. <u>**Clients will review every time entry**</u> w
 record on their project, so it is essential to be thoughtful and professional in
 your language.
 
-We use [Harvest]( https://chrisrusso.harvestapp.com/welcome) to record time.
+We use [Harvest]( https://savaslabs.harvestapp.com/welcome) to record time.
 
 #### How to write a _perfect_ time entry
 + Pay close attention to the [appropriate task](#tasks) and log accordingly. 
